@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 17, 2015, 12:44:55 AM
+    Author     : captn_000
+*/
+
+.pane{
+    -fx-background-color: black;
+    -fx-border-color: gold;
+    -fx-border-width: 3px;
+    -fx-padding: 40;
+}
+
+.label{
+    -fx-text-fill: silver;
+}
+
+.labelTwo{
+    -fx-underline: true;
+}
+
+.borderpane{
+    -fx-background-color: black;
+    -fx-border-color: gold;
+    -fx-border-width: 5px;
+}
+
+.vboxTwo{
+    -fx-spacing: 100;
+}
+
+.comboBox{
+    -fx-pref-width: 200;
+}
+
+.leftPane{
+    -fx-spacing: 60;
+}
+
+.vboxSeven{
+    -fx-spacing: 15;
+}
+
+.vboxOne{
+    -fx-spacing: 10;
+}
+
+.vboxStart{
+    -fx-spacing: 30;
+}
+
